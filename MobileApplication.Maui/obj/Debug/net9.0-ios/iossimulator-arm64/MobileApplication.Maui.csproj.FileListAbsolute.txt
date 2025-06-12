@@ -1,6 +1,7 @@
 /Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/bin/Debug/net9.0-ios/iossimulator-arm64/MobileApplication.Maui.runtimeconfig.json
 /Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/bin/Debug/net9.0-ios/iossimulator-arm64/MobileApplication.Maui.dll
 /Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/bin/Debug/net9.0-ios/iossimulator-arm64/MobileApplication.Maui.pdb
+/Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/bin/Debug/net9.0-ios/iossimulator-arm64/DotNetEnv.dll
 /Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/bin/Debug/net9.0-ios/iossimulator-arm64/Microsoft.Extensions.Configuration.dll
 /Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/bin/Debug/net9.0-ios/iossimulator-arm64/Microsoft.Extensions.Configuration.Abstractions.dll
 /Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/bin/Debug/net9.0-ios/iossimulator-arm64/Microsoft.Extensions.DependencyInjection.dll
@@ -15,6 +16,8 @@
 /Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/bin/Debug/net9.0-ios/iossimulator-arm64/Microsoft.Maui.dll
 /Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/bin/Debug/net9.0-ios/iossimulator-arm64/Microsoft.Maui.Essentials.dll
 /Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/bin/Debug/net9.0-ios/iossimulator-arm64/Microsoft.Maui.Graphics.dll
+/Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/bin/Debug/net9.0-ios/iossimulator-arm64/Newtonsoft.Json.dll
+/Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/bin/Debug/net9.0-ios/iossimulator-arm64/Sprache.dll
 /Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/bin/Debug/net9.0-ios/iossimulator-arm64/ar/Microsoft.Maui.Controls.resources.dll
 /Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/bin/Debug/net9.0-ios/iossimulator-arm64/ca/Microsoft.Maui.Controls.resources.dll
 /Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/bin/Debug/net9.0-ios/iossimulator-arm64/cs/Microsoft.Maui.Controls.resources.dll
@@ -254,20 +257,6 @@
 /Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/bin/Debug/net9.0-ios/iossimulator-arm64/MobileApplication.Core.dll
 /Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/bin/Debug/net9.0-ios/iossimulator-arm64/MobileApplication.Core.pdb
 /Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/obj/Debug/net9.0-ios/iossimulator-arm64/MobileApplication.Maui.csproj.AssemblyReference.cache
-/Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/obj/Debug/net9.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Configuration.Abstractions.stamp
-/Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/obj/Debug/net9.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Configuration.stamp
-/Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/obj/Debug/net9.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.DependencyInjection.Abstractions.stamp
-/Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/obj/Debug/net9.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.DependencyInjection.stamp
-/Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/obj/Debug/net9.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Logging.Abstractions.stamp
-/Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/obj/Debug/net9.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Logging.Debug.stamp
-/Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/obj/Debug/net9.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Logging.stamp
-/Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/obj/Debug/net9.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Options.stamp
-/Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/obj/Debug/net9.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Primitives.stamp
-/Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/obj/Debug/net9.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Maui.Controls.stamp
-/Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/obj/Debug/net9.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Maui.Controls.Xaml.stamp
-/Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/obj/Debug/net9.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Maui.stamp
-/Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/obj/Debug/net9.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Maui.Essentials.stamp
-/Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/obj/Debug/net9.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Maui.Graphics.stamp
 /Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/obj/Debug/net9.0-ios/iossimulator-arm64/resourcestamps/MobileApplication.Core.stamp
 /Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/obj/Debug/net9.0-ios/iossimulator-arm64/mauiimage.inputs
 /Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/obj/Debug/net9.0-ios/iossimulator-arm64/mauifont.inputs
@@ -315,6 +304,7 @@
 /Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/obj/Debug/net9.0-ios/iossimulator-arm64/MobileApplication.Maui.AssemblyInfoInputs.cache
 /Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/obj/Debug/net9.0-ios/iossimulator-arm64/MobileApplication.Maui.AssemblyInfo.cs
 /Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/obj/Debug/net9.0-ios/iossimulator-arm64/MobileApplication.Maui.csproj.CoreCompileInputs.cache
+/Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/obj/Debug/net9.0-ios/iossimulator-arm64/MobileApplication.Maui.sourcelink.json
 /Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/obj/Debug/net9.0-ios/iossimulator-arm64/XamlC.stamp
 /Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/obj/Debug/net9.0-ios/iossimulator-arm64/MobileAp.F727E31A.Up2Date
 /Users/user/RiderProjects/MobileApplication/MobileApplication.Maui/obj/Debug/net9.0-ios/iossimulator-arm64/MobileApplication.Maui.dll

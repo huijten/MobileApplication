@@ -1,4 +1,6 @@
-﻿namespace MobileApplication.Maui;
+﻿using MobileApplication.Core.Model;
+using MobileApplication.Core.Helpers;
+namespace MobileApplication.Maui;
 
 public partial class App : Application
 {
@@ -6,6 +8,8 @@ public partial class App : Application
 	{
 		InitializeComponent();
 	}
+	
+	
 
 	protected override Window CreateWindow(IActivationState? activationState)
 	{

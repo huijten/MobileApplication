@@ -9,3 +9,5 @@
 /Users/user/RiderProjects/MobileApplication/MobileApplication.Core/obj/Debug/net9.0/refint/MobileApplication.Core.dll
 /Users/user/RiderProjects/MobileApplication/MobileApplication.Core/obj/Debug/net9.0/MobileApplication.Core.pdb
 /Users/user/RiderProjects/MobileApplication/MobileApplication.Core/obj/Debug/net9.0/ref/MobileApplication.Core.dll
+/Users/user/RiderProjects/MobileApplication/MobileApplication.Core/obj/Debug/net9.0/MobileApplication.Core.csproj.AssemblyReference.cache
+/Users/user/RiderProjects/MobileApplication/MobileApplication.Core/obj/Debug/net9.0/MobileApplication.Core.sourcelink.json

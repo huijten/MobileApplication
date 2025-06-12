@@ -68,4 +68,9 @@
 	  <ProjectReference Include="..\MobileApplication.Core\MobileApplication.Core.csproj" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <Folder Include="ViewModel\" />
+	  <Folder Include="View\" />
+	</ItemGroup>
+
 </Project>
