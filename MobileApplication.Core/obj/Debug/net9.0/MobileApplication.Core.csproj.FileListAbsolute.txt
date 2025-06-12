@@ -1,0 +1,11 @@
+/Users/user/RiderProjects/MobileApplication/MobileApplication.Core/bin/Debug/net9.0/MobileApplication.Core.deps.json
+/Users/user/RiderProjects/MobileApplication/MobileApplication.Core/bin/Debug/net9.0/MobileApplication.Core.dll
+/Users/user/RiderProjects/MobileApplication/MobileApplication.Core/bin/Debug/net9.0/MobileApplication.Core.pdb
+/Users/user/RiderProjects/MobileApplication/MobileApplication.Core/obj/Debug/net9.0/MobileApplication.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/RiderProjects/MobileApplication/MobileApplication.Core/obj/Debug/net9.0/MobileApplication.Core.AssemblyInfoInputs.cache
+/Users/user/RiderProjects/MobileApplication/MobileApplication.Core/obj/Debug/net9.0/MobileApplication.Core.AssemblyInfo.cs
+/Users/user/RiderProjects/MobileApplication/MobileApplication.Core/obj/Debug/net9.0/MobileApplication.Core.csproj.CoreCompileInputs.cache
+/Users/user/RiderProjects/MobileApplication/MobileApplication.Core/obj/Debug/net9.0/MobileApplication.Core.dll
+/Users/user/RiderProjects/MobileApplication/MobileApplication.Core/obj/Debug/net9.0/refint/MobileApplication.Core.dll
+/Users/user/RiderProjects/MobileApplication/MobileApplication.Core/obj/Debug/net9.0/MobileApplication.Core.pdb
+/Users/user/RiderProjects/MobileApplication/MobileApplication.Core/obj/Debug/net9.0/ref/MobileApplication.Core.dll
